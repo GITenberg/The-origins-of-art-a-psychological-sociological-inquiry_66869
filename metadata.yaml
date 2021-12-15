@@ -1,11 +1,16 @@
 _repo: The-origins-of-art-a-psychological-sociological-inquiry_66869
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66869-h/images/cover.jpg
 creator:
   author:
     agent_name: Hirn, Yrjö
     gutenberg_agent_id: '53996'
     url: http://www.gutenberg.org/2009/agents/53996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66869#The-origins-of-art-a-psychological-sociological-inquiry
 gutenberg_issued: '2021-12-02'
 identifiers:
   gutenberg: '66869'
